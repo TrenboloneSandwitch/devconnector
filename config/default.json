@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://jsolda:jFlEqB9wtaDmqxDS@cluster0-senmm.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "mojetajemstvitoken"
+}
